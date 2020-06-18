@@ -1,1 +1,1 @@
-# webpack5_2020
+# Webpack 5 template
